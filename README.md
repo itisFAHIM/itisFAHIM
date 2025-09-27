@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @itisFAHIM
 - 👀 I’m interested in Sports
-- 🌱 I’m currently learning Django & Deep Machine Learning
+- 🌱 I’m currently learning Django, Deep Learning & NLP
 - 📫 How to reach me: anytime on @fffahimm12@gmail.com
 - ⚡ Fun fact: Coding is frustating
 
