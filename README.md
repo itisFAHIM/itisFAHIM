@@ -76,12 +76,12 @@ Alongside that, I run a parallel creative practice — photography, videography,
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itisFAHIM&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://readme-status-sepia.vercel.app/api?username=itisFAHIM&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=itisFAHIM&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itisFAHIM&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://readme-status-sepia.vercel.app/api/top-langs/?username=itisFAHIM&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
 ---
